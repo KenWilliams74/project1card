@@ -1,0 +1,15 @@
+.container{
+    text-align: center;
+    margin: auto;
+    padding: 20px;
+    max-width: auto;
+    
+}
+
+.btn{
+    width: 30%;
+}
+
+.courtpic{
+    width: 200px;
+}
